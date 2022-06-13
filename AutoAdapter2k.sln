@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAdapter2k", "AutoAdapter2k\AutoAdapter2k.csproj", "{59B17A7F-CD10-4D83-8C0F-5D78CC236EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B17A7F-CD10-4D83-8C0F-5D78CC236EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B17A7F-CD10-4D83-8C0F-5D78CC236EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B17A7F-CD10-4D83-8C0F-5D78CC236EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B17A7F-CD10-4D83-8C0F-5D78CC236EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06751E2-B0C1-4E67-BE5C-C56BFB28BEE9}
+	EndGlobalSection
+EndGlobal
